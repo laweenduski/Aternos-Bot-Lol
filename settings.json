@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lifestealduhok",
+    "ip": "Lifestealduhok.aternos.me",
     "port": 17741,
     "version": "1.20.1",
     "try-creative": false
